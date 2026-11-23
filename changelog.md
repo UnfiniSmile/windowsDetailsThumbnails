@@ -1,5 +1,14 @@
 # changelog
 
+## 26.11.23.1
+
+更新
+- 新增.apk .xml .asd .wbk缩略图渲染
+- 图像分区：包含 XML、SVG、APK、EXE 和 LNK
+
+修复
+- word 墨迹和荧光笔绘制
+
 ## 26.11.19.3
 
 更新
